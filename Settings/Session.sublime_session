@@ -1,0 +1,279 @@
+{
+	"folder_history":
+	[
+		"/Users/gonto/repos/rss-reader",
+		"/Users/gonto/repos/ruby-ex",
+		"/Users/gonto/repos/nutricion"
+	],
+	"last_window_id": 108,
+	"settings":
+	{
+		"new_window_height": 668.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 67.0,
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"prop",
+						"Set Syntax: Java Properties"
+					],
+					[
+						"XML",
+						"Set Syntax: XML"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/gonto/Downloads/DbUserService.scala",
+				"/Users/gonto/Downloads/Notifications",
+				"/Users/gonto/Desktop/Aquicore/Notifications",
+				"/Users/gonto/Documents/Deaudas.txt",
+				"/Applications/Java-Eclipse/Java-Eclipse.app/Contents/MacOS/eclipse.ini",
+				"/Users/gonto/Desktop/myData",
+				"/Users/gonto/repos/aquicore/aquicore/Procfile",
+				"/Users/gonto/Desktop/queries",
+				"/Applications/Java-Eclipse/Java-Eclipse.app/Contents/Info.plist",
+				"/Users/gonto/Desktop/greenEyeMonitorSimulation/bin/simulate.properties",
+				"/Users/gonto/repos/aquicore/aquicore/test/data.yml",
+				"/Users/gonto/Documents/Work/templateNoBusco",
+				"/Users/gonto/Downloads/iv-publisher-refactoring/src/main/scala/com/iv/publisher/documented/package.scala",
+				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/%5BGmail%5D%2FStarred/478/5/ToLong.scala",
+				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/%5BGmail%5D%2FStarred/478/4/DocumentSupport.scala",
+				"/Users/gonto/Dropbox/Aquicore-ProductDev/2) Design & Architecture/Class diagrams/Notifications.cd",
+				"/Users/gonto/Desktop/greenEyeMonitorSimulation/src/simulate.properties",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/gonto/repos/aquicore/aquicore/conf/application.conf",
+				"/Users/gonto/Documents/edu-mail",
+				"/Applications/Scala/Scala-Eclipse.app/Contents/MacOS/eclipse.ini",
+				"/Users/gonto/Desktop/Ejemplo Plata",
+				"/Users/gonto/repos/rss-reader/app/controllers/logged_in_controller.rb",
+				"/Users/gonto/repos/rss-reader/app/models/user.rb",
+				"/Users/gonto/repos/rss-reader/config/database.yml",
+				"/Users/gonto/repos/rss-reader/app/views/home/index.html.erb",
+				"/Users/gonto/repos/rss-reader/app/views/home/home.html.erb",
+				"/Users/gonto/repos/rss-reader/app/views/layouts/application.html.erb",
+				"/Users/gonto/repos/rss-reader/app/controllers/home_controller.rb",
+				"/Users/gonto/repos/rss-reader/config/routes.rb",
+				"/Users/gonto/repos/rss-reader/config/environments/test.rb",
+				"/Users/gonto/repos/rss-reader/config/environments/production.rb",
+				"/Users/gonto/repos/rss-reader/config/environments/development.rb",
+				"/Users/gonto/Documents/Work/templateLider",
+				"/Users/gonto/repos/ruby-ex/xyz_service.rb",
+				"/Users/gonto/repos/ruby-ex/xyz_service_spec.rb",
+				"/Users/gonto/repos/ruby-ex/file.rb",
+				"/Users/gonto/Downloads/index.php",
+				"/Users/gonto/Downloads/505-Sons of the Father.srt",
+				"/Users/gonto/repos/nutricion/app/views/turnos/index.html.erb",
+				"/Volumes/MBPBackup/Documents/Facu/5/Proyecto/proyfin-utn/docs/2011-07-08/clases",
+				"/Users/gonto/repos/nutricion/app/views/turnos/_form.html.erb",
+				"/Users/gonto/repos/nutricion/app/controllers/turnos_controller.rb",
+				"/Users/gonto/repos/nutricion/app/models/paciente.rb",
+				"/Users/gonto/repos/nutricion/app/models/turno.rb",
+				"/Users/gonto/repos/nutricion/config/routes.rb",
+				"/Users/gonto/repos/nutricion/db/migrate/20121013234725_create_pacientes.rb",
+				"/Users/gonto/Downloads/Fringe 4x19 - Letters of Transit (Español (Latinoamérica)).srt",
+				"/Applications/Scala/Eclipse.app/Contents/Info.plist",
+				"/Users/gonto/Downloads/Breaking Bad - 02x08 - Better Call Saul.DOT.Spanish.orig.Addic7ed.com.srt",
+				"/Volumes/MBPBackup/movies/Breaking Bad - 02x07 - Negro y Azul (Español (España)).srt",
+				"/Users/gonto/Desktop/links",
+				"/Users/gonto/Downloads/com/dropinocean/jmsscheduling/spring/JMSScheduleStrategy.java",
+				"/Users/gonto/repos/dotfiles/readme.md",
+				"/Users/gonto/bin/ctorrent",
+				"/Users/gonto/Toggle show hidden",
+				"/Users/gonto/Downloads/sublime.license",
+				"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl",
+				"/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2",
+				"/Users/gonto/Documents/Sesion Cole Martin/6°/Proy Final/BackUp/Ventanas/Clases/Recursos.cs",
+				"/Users/gonto/ba",
+				"/Users/gonto/Library/Keyboard Layouts/MSLatinoamerica.keylayout",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/gonto/Downloads/edmz-latam_keyboard-d5329eb/README.markdown",
+				"/Users/gonto/Downloads/Microsoft.Office.2011.With.SP1.MAC.OSX-CRBS/c-o.osx.sfv",
+				"/Users/gonto/Downloads/Microsoft.Office.2011.With.SP1.MAC.OSX-CRBS/c-o.osx.nfo",
+				"/Users/gonto/Desktop/iPadPassword"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"xmx",
+					"HEAD",
+					"Meter",
+					"meter",
+					"false",
+					"config.action_mailer.defaul",
+					"xyz_filename",
+					"    ",
+					"comprendo",
+					"3342",
+					"33 42",
+					"3342",
+					"33 42",
+					"3342",
+					"3 42",
+					"3342",
+					"x3C",
+					"\"<\"",
+					"^"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"32 42",
+					"3242",
+					"32 42"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"db",
+						"config/database.yml"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"develop",
+						"config/environments/development.rb"
+					],
+					[
+						"paciente",
+						"app/models/paciente.rb"
+					],
+					[
+						"turno",
+						"app/models/turno.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 168.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
