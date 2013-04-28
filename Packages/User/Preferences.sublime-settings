@@ -1,10 +1,9 @@
 {
 	"font_size": 17.0,
-	// Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true,
-    // OS X only: When files are opened from finder, or by dragging onto the
-    // dock icon, this controls if a new window is created or not.
-    "open_files_in_new_window": false
-    
-
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"translate_tabs_to_spaces": true
 }

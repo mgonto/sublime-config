@@ -1,28 +1,143 @@
 {
 	"folder_history":
 	[
+		"/Users/gonto/Desktop/agenda",
+		"/Users/gonto/repos/nardoz-ruby-talk",
+		"/Users/gonto/repos/aquicore/aquicore",
+		"/Users/gonto/repos/tournament/ruby",
+		"/Users/gonto/repos/zauber/zauber-pinlibre",
+		"/Users/gonto/repos/whattotake",
+		"/Users/gonto/repos/ideo",
 		"/Users/gonto/repos/rss-reader",
 		"/Users/gonto/repos/ruby-ex",
 		"/Users/gonto/repos/nutricion"
 	],
-	"last_window_id": 109,
+	"last_window_id": 364,
 	"settings":
 	{
-		"new_window_height": 668.0,
+		"new_window_height": 597.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"new",
+						"newTransaction"
+					],
+					[
+						"newA",
+						"newAccount"
+					],
+					[
+						"me",
+						"messages"
+					],
+					[
+						"ex",
+						"expectDELETE"
+					],
+					[
+						"acc",
+						"accountsModel"
+					],
+					[
+						"face",
+						"facebook_user_with_token"
+					],
+					[
+						"tor",
+						"tournament_status"
+					],
+					[
+						"sch",
+						"schedule_attrs"
+					],
+					[
+						"sta",
+						"start_time_string"
+					],
+					[
+						"time",
+						"time_to_int"
+					],
+					[
+						"vali",
+						"valid_facebook_attributes"
+					],
+					[
+						"facebo",
+						"facebook_user"
+					],
+					[
+						"in",
+						"invalid_facebook_attributes"
+					],
+					[
+						"va",
+						"valid_facebook_attributes"
+					],
+					[
+						"fa",
+						"valid_facebook_attributes"
+					]
 				]
 			},
-			"build_system": "",
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
 			"command_palette":
 			{
-				"height": 67.0,
+				"height": 87.0,
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"package ma",
+						"Package Control: Remove Package"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"scala",
+						"Set Syntax: Scala"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
 					[
 						"key",
 						"Preferences: Key Bindings - User"
@@ -38,17 +153,13 @@
 					[
 						"bash",
 						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"packa",
-						"Preferences: Browse Packages"
 					]
 				],
-				"width": 392.0
+				"width": 467.0
 			},
 			"console":
 			{
-				"height": 0.0
+				"height": 167.0
 			},
 			"distraction_free":
 			{
@@ -61,73 +172,134 @@
 			},
 			"file_history":
 			[
-				"/Users/gonto/Downloads/DbUserService.scala",
-				"/Users/gonto/Downloads/Notifications",
-				"/Users/gonto/Desktop/Aquicore/Notifications",
-				"/Users/gonto/Documents/Deaudas.txt",
-				"/Applications/Java-Eclipse/Java-Eclipse.app/Contents/MacOS/eclipse.ini",
-				"/Users/gonto/Desktop/myData",
-				"/Users/gonto/repos/aquicore/aquicore/Procfile",
-				"/Users/gonto/Desktop/queries",
-				"/Applications/Java-Eclipse/Java-Eclipse.app/Contents/Info.plist",
-				"/Users/gonto/Desktop/greenEyeMonitorSimulation/bin/simulate.properties",
-				"/Users/gonto/repos/aquicore/aquicore/test/data.yml",
-				"/Users/gonto/Documents/Work/templateNoBusco",
-				"/Users/gonto/Downloads/iv-publisher-refactoring/src/main/scala/com/iv/publisher/documented/package.scala",
-				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/%5BGmail%5D%2FStarred/478/5/ToLong.scala",
-				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/%5BGmail%5D%2FStarred/478/4/DocumentSupport.scala",
-				"/Users/gonto/Dropbox/Aquicore-ProductDev/2) Design & Architecture/Class diagrams/Notifications.cd",
-				"/Users/gonto/Desktop/greenEyeMonitorSimulation/src/simulate.properties",
-				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/gonto/repos/aquicore/aquicore/conf/application.conf",
-				"/Users/gonto/Documents/edu-mail",
-				"/Applications/Scala/Scala-Eclipse.app/Contents/MacOS/eclipse.ini",
-				"/Users/gonto/Desktop/Ejemplo Plata",
-				"/Users/gonto/repos/rss-reader/app/controllers/logged_in_controller.rb",
-				"/Users/gonto/repos/rss-reader/app/models/user.rb",
-				"/Users/gonto/repos/rss-reader/config/database.yml",
-				"/Users/gonto/repos/rss-reader/app/views/home/index.html.erb",
-				"/Users/gonto/repos/rss-reader/app/views/home/home.html.erb",
-				"/Users/gonto/repos/rss-reader/app/views/layouts/application.html.erb",
-				"/Users/gonto/repos/rss-reader/app/controllers/home_controller.rb",
-				"/Users/gonto/repos/rss-reader/config/routes.rb",
-				"/Users/gonto/repos/rss-reader/config/environments/test.rb",
-				"/Users/gonto/repos/rss-reader/config/environments/production.rb",
-				"/Users/gonto/repos/rss-reader/config/environments/development.rb",
-				"/Users/gonto/Documents/Work/templateLider",
-				"/Users/gonto/repos/ruby-ex/xyz_service.rb",
-				"/Users/gonto/repos/ruby-ex/xyz_service_spec.rb",
-				"/Users/gonto/repos/ruby-ex/file.rb",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/gonto/Library/Application Support/Quicksilver/Actions/Messages.applescript",
+				"/Users/gonto/Desktop/ReportURL",
+				"/Users/gonto/Desktop/plata",
+				"/Users/gonto/Downloads/nardosrulez.csv",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 7/Video 3/5484OS_07_VID03_UseTheModule_1stDraft.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 8/Video 1/5484OS_08_VID01_BodyParsers_1stDraft.txt",
+				"/Users/gonto/repos/restangular/src/restangular.js",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-build",
+				"/Users/gonto/repos/restangular/CHANGELOG.md",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/JSLint.sublime-settings",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+				"/Users/gonto/repos/restangular/README.md",
+				"/Users/gonto/Library/Scripts/Toggle show hidden.scpt",
+				"/Users/gonto/repos/restangular/test/restangularSpec.js",
+				"/Users/gonto/Desktop/agenda/db/migrate/20130417003149_create_people.rb",
+				"/Users/gonto/Desktop/agenda/config/routes.rb",
+				"/Users/gonto/Desktop/agenda/config/database.yml",
+				"/Users/gonto/Desktop/agenda/app/models/person.rb",
+				"/Users/gonto/repos/restangular/package.json",
+				"/Users/gonto/repos/nardoz-ruby-talk/index.html",
+				"/Users/gonto/repos/nardoz-ruby-talk/machete",
+				"/Users/gonto/repos/nardoz-ruby-talk/slide_config.js",
+				"/Users/gonto/repos/nardoz-ruby-talk/template.html",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/actioncenter/angular/controllers.js",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 4/Video 1/script.txt",
+				"/Users/gonto/repos/restangular/dist/restangular.js",
+				"/Users/gonto/Downloads/htaccess",
 				"/Users/gonto/Downloads/index.php",
-				"/Users/gonto/Downloads/505-Sons of the Father.srt",
-				"/Users/gonto/repos/nutricion/app/views/turnos/index.html.erb",
-				"/Volumes/MBPBackup/Documents/Facu/5/Proyecto/proyfin-utn/docs/2011-07-08/clases",
-				"/Users/gonto/repos/nutricion/app/views/turnos/_form.html.erb",
-				"/Users/gonto/repos/nutricion/app/controllers/turnos_controller.rb",
-				"/Users/gonto/repos/nutricion/app/models/paciente.rb",
-				"/Users/gonto/repos/nutricion/app/models/turno.rb",
-				"/Users/gonto/repos/nutricion/config/routes.rb",
-				"/Users/gonto/repos/nutricion/db/migrate/20121013234725_create_pacientes.rb",
-				"/Users/gonto/Downloads/Fringe 4x19 - Letters of Transit (Español (Latinoamérica)).srt",
-				"/Applications/Scala/Eclipse.app/Contents/Info.plist",
-				"/Users/gonto/Downloads/Breaking Bad - 02x08 - Better Call Saul.DOT.Spanish.orig.Addic7ed.com.srt",
-				"/Volumes/MBPBackup/movies/Breaking Bad - 02x07 - Negro y Azul (Español (España)).srt",
-				"/Users/gonto/Desktop/links",
-				"/Users/gonto/Downloads/com/dropinocean/jmsscheduling/spring/JMSScheduleStrategy.java",
-				"/Users/gonto/repos/dotfiles/readme.md",
-				"/Users/gonto/bin/ctorrent",
-				"/Users/gonto/Toggle show hidden",
-				"/Users/gonto/Downloads/sublime.license",
-				"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl",
-				"/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2",
-				"/Users/gonto/Documents/Sesion Cole Martin/6°/Proy Final/BackUp/Ventanas/Clases/Recursos.cs",
-				"/Users/gonto/ba",
-				"/Users/gonto/Library/Keyboard Layouts/MSLatinoamerica.keylayout",
+				"/Users/gonto/Downloads/flot-flot-e3c45a5/flot.jquery.json",
+				"/Users/gonto/Downloads/novus-nvd3-f74b4de/nv.d3.js",
+				"/Users/gonto/Downloads/novus-nvd3-f74b4de/src/nv.d3.css",
+				"/Users/gonto/Downloads/novus-nvd3-f74b4de/nv.d3.min.js",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/monitor/angular/filters.js",
+				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/INBOX/86675/2/Weekly Energy report for Headquarters (Csv) 08:04:2013",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/monitor/angular/app.js",
+				"/Users/gonto/Documents/Work/templateNoBusco",
+				"/Users/gonto/repos/aquicore/aquicore/test/data.yml",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/gonto/repos/tournament/ruby/config/routes.rb",
+				"/Users/gonto/Desktop/Dir",
+				"/Users/gonto/repos/tournament/ruby/app/serializers/tourney_serializer.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/tourney.rb",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/tournaments_controller.rb",
+				"/Users/gonto/Desktop/iPhoneUpdater.log",
+				"/Users/gonto/repos/tournament/ruby/app/helpers/application_helper.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/models/tourney_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/app/views/registrations/create.json.rabl",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/posts_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/created_tournament.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/sport_template.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/tournament_status.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/sport.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/controllers/tournaments_controller_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/started_tournament.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/stadium.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/requests/registrations_controller_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/spec_session_helper.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/helpers/sport_templates_helper_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/sport_templates_controller.rb",
+				"/Users/gonto/Downloads/debrick.sh",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/lib/assets/javascripts/analytics/analytics.js",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/app/views/layouts/application.html.erb",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/app/views/general/_analytics.html.erb",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/app/assets/javascripts/app/templates/relatedArticles.jst.hbs",
+				"/Users/gonto/Downloads/resetButtonAction.sh",
+				"/Users/gonto/Downloads/resetButtonAction 3.sh",
+				"/Users/gonto/Downloads/resetButtonAction_v2.zip",
+				"/Users/gonto/.ssh/known_hosts",
+				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/INBOX/85118/2/Daily Energy report for Reluminati (Csv) 23:03:2013",
+				"/Users/gonto/Desktop/Tel Julio",
+				"/Users/gonto/repos/aquicore/aquicore/diff",
+				"/Users/gonto/Downloads/angular.js",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 3/Video 2/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 3/Video 1/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 2/Video 3/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 2/Video 1/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 3/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 1/hib.xml",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 1/web.xml",
+				"/Users/gonto/repos/tournament/ruby/app/models/user.rb",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 1/script.txt",
+				"/Users/gonto/Desktop/Lote",
+				"/Users/gonto/Desktop/PDE",
+				"/Users/gonto/repos/tournament/ruby/spec/models/schedule_spec.rb",
+				"/Users/gonto/.nvm/nvm.sh",
+				"/Users/gonto/repos/aquicore/aquicore/modules/greenscript-1.2.9c-aq/samples-and-tests/booking/conf/data.yml",
+				"/Users/gonto/repos/aquicore/aquicore/conf/dependencies.yml",
+				"/Users/gonto/repos/tournament/ruby/app/models/schedule.rb",
+				"/Users/gonto/Downloads/gabrielbernstein@gmail.com - Discos de tu vieja PC/tree_d.txt",
+				"/Users/gonto/Downloads/gabrielbernstein@gmail.com - Discos de tu vieja PC/tree_c.txt",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/schedule_fabricator.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/models/stadium_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/models/user_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/Gemfile",
+				"/Users/gonto/repos/tournament/ruby/URLs",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/v1/users_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/registrations_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/requests/sessions_controller_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/routing/registrations_routing_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/routing/sessions_routing_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/stadium_fabricator.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/vcr_cassettes/gonto_facebook.yml",
+				"/Users/gonto/repos/tournament/ruby/spec/requests/v1_users_controller_spec.rb",
 				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/gonto/Downloads/edmz-latam_keyboard-d5329eb/README.markdown",
-				"/Users/gonto/Downloads/Microsoft.Office.2011.With.SP1.MAC.OSX-CRBS/c-o.osx.sfv",
-				"/Users/gonto/Downloads/Microsoft.Office.2011.With.SP1.MAC.OSX-CRBS/c-o.osx.nfo",
-				"/Users/gonto/Desktop/iPadPassword"
+				"/Users/gonto/repos/aquicore/aquicore/provided/greenscript-1.2.9c-aq/conf/dependencies.yml",
+				"/Users/gonto/repos/greenscript/java/play/pom.xml",
+				"/Users/gonto/repos/aquicore/aquicore/conf/initial-data.yml",
+				"/Users/gonto/Documents/Work/templateFreelanceNoBusco",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/nv.d3.js",
+				"/Users/gonto/Desktop/cd",
+				"/Users/gonto/repos/tournament/ruby/config/unicorn.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/user_fabricator.rb",
+				"/Users/gonto/repos/ideo/spec/fabricators/user_fabricator.rb",
+				"/Users/gonto/repos/ideo/app/controllers/v1/sessions_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/app/views/v1/users/login.json.rabl",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/application_controller.rb",
+				"/Users/gonto/repos/ideo/app/controllers/v1/users_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/tourney_fabricator.rb",
+				"/Users/gonto/repos/tournament/ruby/config/application.rb",
+				"/Users/gonto/repos/tournament/ruby/config/initializers/simple_enum_initializer.rb",
+				"/Users/gonto/repos/ideo/app/models/user.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/spec_helper.rb",
+				"/Users/gonto/repos/ideo/spec/spec_helper.rb",
+				"/Users/gonto/repos/ideo/features/support/env.rb",
+				"/Users/gonto/repos/ideo/features/support/vcr.rb",
+				"/Users/gonto/repos/ideo/app/controllers/application_controller.rb"
 			],
 			"find":
 			{
@@ -138,13 +310,121 @@
 				"height": 0.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					",\"",
+					"@",
+					",\"",
+					"post",
+					"brac",
+					"custom",
+					"responseExtractor",
+					"msg",
+					"')",
+					"'>",
+					"<a",
+					"postFunc",
+					")",
+					"post",
+					"}",
+					"{",
+					",",
+					".delete",
+					".remove",
+					".update",
+					".fetch",
+					"public",
+					"format'",
+					",.3r",
+					"format",
+					"BarChart",
+					"User(",
+					"C05",
+					"sda",
+					"data-metric-",
+					"data-metric-eve",
+					".parse",
+					"sda2",
+					"sda",
+					"javascript",
+					"database_authenticatable",
+					"PPT",
+					"Mate",
+					"use",
+					"failed",
+					"N/A",
+					"        \n",
+					"grep",
+					"install",
+					"Building",
+					"numeric(19, 2)",
+					",",
+					"start",
+					"UsersHelper",
+					"User",
+					"linePl",
+					"Partition",
+					"WorkCalendar]",
+					"SingleRulePartition",
+					"stadium",
+					"user",
+					"precense",
+					"password",
+					"encrypted_pass",
+					"@facebook_user",
+					"vcr",
+					"= d",
+					"space_id",
+					":user => valid_attributes",
+					"v1_users_path",
+					"rabl",
+					"config.include",
+					"id",
+					"user =>",
+					"Fabricate.build(:user).to_json",
+					"users",
+					"active_record",
+					"Spork.prefork",
+					"member",
+					"terminal-notifier-guard",
+					"@articles = Article.find_for_category(params[:id], params[:page].to_i, APP_CONFIG[\"sitemap_pagesize\"])",
+					"\"",
+					"<<<<<<",
+					">>>>>",
+					"<<<<<<<",
+					"Usd",
+					"-",
+					"&&",
+					"\n",
+					"#",
+					"PlayDateStatus",
+					"Martin Gontovnikas: ",
+					"{",
+					"if",
+					"/home/username",
+					"Building",
+					"user",
+					"alert",
+					"Space",
+					"references",
+					"gon.to",
+					"<a href=\"",
+					")",
+					"(",
+					"[\\(\\)]",
+					"-reflect",
+					"2.9",
+					"2.10",
+					"class=\"build\"",
+					"    \n",
+					"SendersByNotification",
+					"",
 					"xmx",
 					"HEAD",
 					"Meter",
@@ -171,6 +451,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					".delete",
+					".put",
+					".getList",
+					"'",
+					"<a target=\"_blank\" href=\"",
 					"",
 					"32 42",
 					"3242",
@@ -213,6 +498,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 136.0
+			},
 			"replace":
 			{
 				"height": 68.0
@@ -224,20 +513,484 @@
 				"selected_items":
 				[
 					[
-						"user",
-						"app/models/user.rb"
+						"migra",
+						"db/migrate/20130417003149_create_people.rb"
 					],
 					[
-						"db",
+						"person",
+						"app/models/person.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"databa",
 						"config/database.yml"
+					],
+					[
+						"filter.js",
+						"public/javascripts/monitor/angular/filters.js"
+					],
+					[
+						"app.js",
+						"public/javascripts/monitor/angular/app.js"
+					],
+					[
+						"tournaments_c",
+						"app/controllers/tournaments_controller.rb"
 					],
 					[
 						"route",
 						"config/routes.rb"
 					],
 					[
+						"post_c",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"tour",
+						"app/models/tourney.rb"
+					],
+					[
+						"tourne",
+						"app/models/tourney.rb"
+					],
+					[
+						"spec_sess",
+						"spec/spec_session_helper.rb"
+					],
+					[
+						"user_con",
+						"spec/requests/registrations_controller_spec.rb"
+					],
+					[
+						"tournament_sp",
+						"spec/controllers/tournaments_controller_spec.rb"
+					],
+					[
+						"tourney",
+						"app/models/tourney.rb"
+					],
+					[
+						"tourne_spe",
+						"spec/models/tourney_spec.rb"
+					],
+					[
+						"analytics.html",
+						"app/views/general/_analytics.html.erb"
+					],
+					[
+						"application.html",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"analytics.js",
+						"lib/assets/javascripts/analytics/analytics.js"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"sched",
+						"spec/fabricators/schedule_fabricator.rb"
+					],
+					[
+						"stas",
+						"spec/models/stadium_spec.rb"
+					],
+					[
+						"schedufab",
+						"spec/fabricators/schedule_fabricator.rb"
+					],
+					[
+						"schedule_fa",
+						"spec/fabricators/schedule_fabricator.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"stadu",
+						"app/models/stadium.rb"
+					],
+					[
+						"regirou",
+						"spec/routing/registrations_routing_spec.rb"
+					],
+					[
+						"sescon",
+						"spec/requests/sessions_controller_spec.rb"
+					],
+					[
+						"registrations_c",
+						"app/controllers/registrations_controller.rb"
+					],
+					[
+						"stadium",
+						"app/models/stadium.rb"
+					],
+					[
+						"stadi",
+						"ruby/spec/models/stadium_spec.rb"
+					],
+					[
+						"user_spec",
+						"ruby/spec/models/user_spec.rb"
+					],
+					[
+						"stad",
+						"ruby/app/models/stadium.rb"
+					],
+					[
+						"gemfile",
+						"ruby/Gemfile"
+					],
+					[
+						"user_fabr",
+						"ruby/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"user.rb",
+						"ruby/app/models/user.rb"
+					],
+					[
+						"gonto",
+						"ruby/spec/vcr_cassettes/gonto_facebook.yml"
+					],
+					[
+						"gonto_f",
+						"ruby/spec/vcr_cassettes/gonto_facebook.yml"
+					],
+					[
+						"user_fab",
+						"ideo/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"session_control",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"user_contr",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"routes",
+						"ruby/config/routes.rb"
+					],
+					[
+						"user_control",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"application_cont",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"session_contr",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"user_controll",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"tourn",
+						"ruby/app/models/tourney.rb"
+					],
+					[
+						"appli",
+						"ruby/config/application.rb"
+					],
+					[
+						"spec",
+						"ruby/spec/models/user_spec.rb"
+					],
+					[
+						"user_fabri",
+						"ruby/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"_fabr",
+						"ruby/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"users_contr",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"gonto_face",
+						"ruby/spec/vcr_cassettes/gonto_facebook.yml"
+					],
+					[
+						"spec_he",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"v1_",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"rspec_he",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"vcr",
+						"ideo/features/support/vcr.rb"
+					],
+					[
+						"env.rb",
+						"ideo/features/support/env.rb"
+					],
+					[
+						"spec_hel",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"application_contr",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"appli_con",
+						"ideo/app/controllers/application_controller.rb"
+					],
+					[
+						"gem",
+						"ruby/Gemfile"
+					],
+					[
+						"user_routing",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"user_contro",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"place_cont",
+						"ideo/spec/controllers/places_controller_spec.rb"
+					],
+					[
+						"routing",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"v1",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"experiencontr",
+						"ideo/app/controllers/v1/experiences_controller.rb"
+					],
+					[
+						"experiencontro",
+						"ideo/app/controllers/v1/experiences_controller.rb"
+					],
+					[
+						"users_contro",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"experi_con",
+						"ideo/app/controllers/v1/experiences_controller.rb"
+					],
+					[
+						"gemfi",
+						"ruby/Gemfile"
+					],
+					[
+						"experiencej",
+						"ideo/app/views/v1/experiences/show.json.jbuilder"
+					],
+					[
+						"session_con",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"devise.rb",
+						"ruby/config/initializers/devise.rb"
+					],
+					[
+						"applicationc",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"userscontroller",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"user_controllerspec",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"expienspe",
+						"ideo/spec/models/experience_spec.rb"
+					],
+					[
+						"users_spec",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"places_con_",
+						"ideo/spec/controllers/places_controller_spec.rb"
+					],
+					[
+						"users_routing",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"users_controller",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"users_rou",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"places_control",
+						"ideo/spec/controllers/places_controller_spec.rb"
+					],
+					[
+						"places_rou",
+						"ideo/spec/routing/places_routing_spec.rb"
+					],
+					[
+						"users_c",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"routes.rb",
+						"ideo/config/routes.rb"
+					],
+					[
+						"routes.r",
+						"ideo/config/routes.rb"
+					],
+					[
+						"experiencecontroller",
+						"ideo/spec/controllers/v1/experiences_controller_spec.rb"
+					],
+					[
+						"_spec",
+						"ideo/spec/models/experience_spec.rb"
+					],
+					[
+						"user_controller_spec",
+						"ruby/spec/controllers/v1/user_controller_spec.rb"
+					],
+					[
+						"userhe",
+						"ruby/app/helpers/v1/user_helper.rb"
+					],
+					[
+						"wrap_",
+						"ruby/config/initializers/wrap_parameters.rb"
+					],
+					[
+						"test.r",
+						"ruby/config/environments/test.rb"
+					],
+					[
+						"guardf",
+						"ruby/Guardfile"
+					],
+					[
+						"gemf",
+						"ruby/Gemfile"
+					],
+					[
+						"show.j",
+						"ideo/app/views/v1/users/show.json.jbuilder"
+					],
+					[
+						"user_controller",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"pene_fa",
+						"ruby/spec/fabricators/pene_fabricator.rb"
+					],
+					[
+						"pene_c",
+						"ruby/app/controllers/penes_controller.rb"
+					],
+					[
+						"application_con",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"error",
+						"ideo/app/controllers/v1/error_handler_helper.rb"
+					],
+					[
+						"user_fa",
+						"ideo/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"basec",
+						"ideo/app/controllers/v1/base_controller.rb"
+					],
+					[
+						"session",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"sess",
+						"ruby/app/controllers/session_controller.rb"
+					],
+					[
+						"guard",
+						"ideo/Guardfile"
+					],
+					[
+						"rspec",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"user.r",
+						"ideo/app/models/user.rb"
+					],
+					[
+						"devise",
+						"ruby/config/initializers/devise.rb"
+					],
+					[
+						"database",
+						"ruby/config/database.yml"
+					],
+					[
 						"develop",
-						"config/environments/development.rb"
+						"ruby/config/environments/development.rb"
+					],
+					[
+						"deve",
+						"ideo/config/environments/development.rb"
+					],
+					[
+						"mono",
+						"ruby/config/mongoid.yml"
+					],
+					[
+						"",
+						"ideo/Gemfile"
+					],
+					[
+						"mongoid",
+						"ideo/config/mongoid.yml"
+					],
+					[
+						"home",
+						"ruby/app/controllers/home_controller.rb"
+					],
+					[
+						"produc",
+						"config/environments/production.rb"
+					],
+					[
+						"db",
+						"config/database.yml"
 					],
 					[
 						"paciente",
@@ -274,26 +1027,130 @@
 			{
 				"selected_items":
 				[
+					[
+						"new",
+						"newTransaction"
+					],
+					[
+						"newA",
+						"newAccount"
+					],
+					[
+						"me",
+						"messages"
+					],
+					[
+						"ex",
+						"expectDELETE"
+					],
+					[
+						"acc",
+						"accountsModel"
+					],
+					[
+						"face",
+						"facebook_user_with_token"
+					],
+					[
+						"tor",
+						"tournament_status"
+					],
+					[
+						"sch",
+						"schedule_attrs"
+					],
+					[
+						"sta",
+						"start_time_string"
+					],
+					[
+						"time",
+						"time_to_int"
+					],
+					[
+						"vali",
+						"valid_facebook_attributes"
+					],
+					[
+						"facebo",
+						"facebook_user"
+					],
+					[
+						"in",
+						"invalid_facebook_attributes"
+					],
+					[
+						"va",
+						"valid_facebook_attributes"
+					],
+					[
+						"fa",
+						"valid_facebook_attributes"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"contents": "aa\na\na\na\na",
+					"contents": "<horizontal-bar type=\"selectionWorkingBar\" data=\"selectionWorkingChartData\">\n  <p> Name is {{name}}</p>\n  <p> Perc is {{perc}}</p>\n</horizontal-bar>\n\n<horizontal-bar type=\"selectionWorkingBar\" data=\"selectionWorkingChartData\">\n  Yao neger your percentage is {{perc}}\n</horizontal-bar>",
 					"settings":
 					{
-						"buffer_size": 10,
+						"buffer_size": 284,
 						"line_ending": "Unix",
-						"name": "aa"
+						"name": "<horizontal-bar type=\"selectionWorkingBar\" data=\"s"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
 			"command_palette":
 			{
-				"height": 47.0,
+				"height": 87.0,
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"package ma",
+						"Package Control: Remove Package"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"scala",
+						"Set Syntax: Scala"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
 					[
 						"packa",
 						"Preferences: Browse Packages"
@@ -315,7 +1172,7 @@
 						"Set Syntax: Shell Script (Bash)"
 					]
 				],
-				"width": 392.0
+				"width": 467.0
 			},
 			"console":
 			{
@@ -332,75 +1189,134 @@
 			},
 			"file_history":
 			[
-				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/gonto/Downloads/DbUserService.scala",
-				"/Users/gonto/Downloads/Notifications",
-				"/Users/gonto/Desktop/Aquicore/Notifications",
-				"/Users/gonto/Documents/Deaudas.txt",
-				"/Applications/Java-Eclipse/Java-Eclipse.app/Contents/MacOS/eclipse.ini",
-				"/Users/gonto/Desktop/myData",
-				"/Users/gonto/repos/aquicore/aquicore/Procfile",
-				"/Users/gonto/Desktop/queries",
-				"/Applications/Java-Eclipse/Java-Eclipse.app/Contents/Info.plist",
-				"/Users/gonto/Desktop/greenEyeMonitorSimulation/bin/simulate.properties",
-				"/Users/gonto/repos/aquicore/aquicore/test/data.yml",
-				"/Users/gonto/Documents/Work/templateNoBusco",
-				"/Users/gonto/Downloads/iv-publisher-refactoring/src/main/scala/com/iv/publisher/documented/package.scala",
-				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/%5BGmail%5D%2FStarred/478/5/ToLong.scala",
-				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/%5BGmail%5D%2FStarred/478/4/DocumentSupport.scala",
-				"/Users/gonto/Dropbox/Aquicore-ProductDev/2) Design & Architecture/Class diagrams/Notifications.cd",
-				"/Users/gonto/Desktop/greenEyeMonitorSimulation/src/simulate.properties",
 				"/Users/gonto/repos/aquicore/aquicore/conf/application.conf",
-				"/Users/gonto/Documents/edu-mail",
-				"/Applications/Scala/Scala-Eclipse.app/Contents/MacOS/eclipse.ini",
-				"/Users/gonto/Desktop/Ejemplo Plata",
-				"/Users/gonto/repos/rss-reader/app/controllers/logged_in_controller.rb",
-				"/Users/gonto/repos/rss-reader/app/models/user.rb",
-				"/Users/gonto/repos/rss-reader/config/database.yml",
-				"/Users/gonto/repos/rss-reader/app/views/home/index.html.erb",
-				"/Users/gonto/repos/rss-reader/app/views/home/home.html.erb",
-				"/Users/gonto/repos/rss-reader/app/views/layouts/application.html.erb",
-				"/Users/gonto/repos/rss-reader/app/controllers/home_controller.rb",
-				"/Users/gonto/repos/rss-reader/config/routes.rb",
-				"/Users/gonto/repos/rss-reader/config/environments/test.rb",
-				"/Users/gonto/repos/rss-reader/config/environments/production.rb",
-				"/Users/gonto/repos/rss-reader/config/environments/development.rb",
-				"/Users/gonto/Documents/Work/templateLider",
-				"/Users/gonto/repos/ruby-ex/xyz_service.rb",
-				"/Users/gonto/repos/ruby-ex/xyz_service_spec.rb",
-				"/Users/gonto/repos/ruby-ex/file.rb",
+				"/Users/gonto/Library/Application Support/Quicksilver/Actions/iMessage.applescript",
+				"/Users/gonto/repos/restangular/CHANGELOG.md",
+				"/Users/gonto/repos/restangular/README.md",
+				"/Users/gonto/repos/restangular/test/restangularSpec.js",
+				"/Users/gonto/repos/restangular/src/restangular.js",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/gonto/Library/Application Support/Quicksilver/Actions/Messages.applescript",
+				"/Users/gonto/Desktop/ReportURL",
+				"/Users/gonto/Desktop/plata",
+				"/Users/gonto/Downloads/nardosrulez.csv",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 7/Video 3/5484OS_07_VID03_UseTheModule_1stDraft.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 8/Video 1/5484OS_08_VID01_BodyParsers_1stDraft.txt",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-build",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/JSLint.sublime-settings",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+				"/Users/gonto/Library/Scripts/Toggle show hidden.scpt",
+				"/Users/gonto/Desktop/agenda/db/migrate/20130417003149_create_people.rb",
+				"/Users/gonto/Desktop/agenda/config/routes.rb",
+				"/Users/gonto/Desktop/agenda/config/database.yml",
+				"/Users/gonto/Desktop/agenda/app/models/person.rb",
+				"/Users/gonto/repos/restangular/package.json",
+				"/Users/gonto/repos/nardoz-ruby-talk/index.html",
+				"/Users/gonto/repos/nardoz-ruby-talk/machete",
+				"/Users/gonto/repos/nardoz-ruby-talk/slide_config.js",
+				"/Users/gonto/repos/nardoz-ruby-talk/template.html",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/actioncenter/angular/controllers.js",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 4/Video 1/script.txt",
+				"/Users/gonto/repos/restangular/dist/restangular.js",
+				"/Users/gonto/Downloads/htaccess",
 				"/Users/gonto/Downloads/index.php",
-				"/Users/gonto/Downloads/505-Sons of the Father.srt",
-				"/Users/gonto/repos/nutricion/app/views/turnos/index.html.erb",
-				"/Volumes/MBPBackup/Documents/Facu/5/Proyecto/proyfin-utn/docs/2011-07-08/clases",
-				"/Users/gonto/repos/nutricion/app/views/turnos/_form.html.erb",
-				"/Users/gonto/repos/nutricion/app/controllers/turnos_controller.rb",
-				"/Users/gonto/repos/nutricion/app/models/paciente.rb",
-				"/Users/gonto/repos/nutricion/app/models/turno.rb",
-				"/Users/gonto/repos/nutricion/config/routes.rb",
-				"/Users/gonto/repos/nutricion/db/migrate/20121013234725_create_pacientes.rb",
-				"/Users/gonto/Downloads/Fringe 4x19 - Letters of Transit (Español (Latinoamérica)).srt",
-				"/Applications/Scala/Eclipse.app/Contents/Info.plist",
-				"/Users/gonto/Downloads/Breaking Bad - 02x08 - Better Call Saul.DOT.Spanish.orig.Addic7ed.com.srt",
-				"/Volumes/MBPBackup/movies/Breaking Bad - 02x07 - Negro y Azul (Español (España)).srt",
-				"/Users/gonto/Desktop/links",
-				"/Users/gonto/Downloads/com/dropinocean/jmsscheduling/spring/JMSScheduleStrategy.java",
-				"/Users/gonto/repos/dotfiles/readme.md",
-				"/Users/gonto/bin/ctorrent",
-				"/Users/gonto/Toggle show hidden",
-				"/Users/gonto/Downloads/sublime.license",
-				"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl",
-				"/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2",
-				"/Users/gonto/Documents/Sesion Cole Martin/6°/Proy Final/BackUp/Ventanas/Clases/Recursos.cs",
-				"/Users/gonto/ba",
-				"/Users/gonto/Library/Keyboard Layouts/MSLatinoamerica.keylayout",
-				"/Users/gonto/Downloads/edmz-latam_keyboard-d5329eb/README.markdown",
-				"/Users/gonto/Downloads/Microsoft.Office.2011.With.SP1.MAC.OSX-CRBS/c-o.osx.sfv",
-				"/Users/gonto/Downloads/Microsoft.Office.2011.With.SP1.MAC.OSX-CRBS/c-o.osx.nfo",
-				"/Users/gonto/Desktop/iPadPassword"
+				"/Users/gonto/Downloads/flot-flot-e3c45a5/flot.jquery.json",
+				"/Users/gonto/Downloads/novus-nvd3-f74b4de/nv.d3.js",
+				"/Users/gonto/Downloads/novus-nvd3-f74b4de/src/nv.d3.css",
+				"/Users/gonto/Downloads/novus-nvd3-f74b4de/nv.d3.min.js",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/monitor/angular/filters.js",
+				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/INBOX/86675/2/Weekly Energy report for Headquarters (Csv) 08:04:2013",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/monitor/angular/app.js",
+				"/Users/gonto/Documents/Work/templateNoBusco",
+				"/Users/gonto/repos/aquicore/aquicore/test/data.yml",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/gonto/repos/tournament/ruby/config/routes.rb",
+				"/Users/gonto/Desktop/Dir",
+				"/Users/gonto/repos/tournament/ruby/app/serializers/tourney_serializer.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/tourney.rb",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/tournaments_controller.rb",
+				"/Users/gonto/Desktop/iPhoneUpdater.log",
+				"/Users/gonto/repos/tournament/ruby/app/helpers/application_helper.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/models/tourney_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/app/views/registrations/create.json.rabl",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/posts_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/created_tournament.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/sport_template.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/tournament_status.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/sport.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/controllers/tournaments_controller_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/started_tournament.rb",
+				"/Users/gonto/repos/tournament/ruby/app/models/stadium.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/requests/registrations_controller_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/spec_session_helper.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/helpers/sport_templates_helper_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/sport_templates_controller.rb",
+				"/Users/gonto/Downloads/debrick.sh",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/lib/assets/javascripts/analytics/analytics.js",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/app/views/layouts/application.html.erb",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/app/views/general/_analytics.html.erb",
+				"/Users/gonto/repos/zauber/zauber-pinlibre/app/assets/javascripts/app/templates/relatedArticles.jst.hbs",
+				"/Users/gonto/Downloads/resetButtonAction.sh",
+				"/Users/gonto/Downloads/resetButtonAction 3.sh",
+				"/Users/gonto/Downloads/resetButtonAction_v2.zip",
+				"/Users/gonto/.ssh/known_hosts",
+				"/Users/gonto/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/gonto89@gmail.com.sparrowdb/Cache/INBOX/85118/2/Daily Energy report for Reluminati (Csv) 23:03:2013",
+				"/Users/gonto/Desktop/Tel Julio",
+				"/Users/gonto/repos/aquicore/aquicore/diff",
+				"/Users/gonto/Downloads/angular.js",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 3/Video 2/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 3/Video 1/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 2/Video 3/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 2/Video 1/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 3/script.txt",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 1/hib.xml",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 1/web.xml",
+				"/Users/gonto/repos/tournament/ruby/app/models/user.rb",
+				"/Users/gonto/Desktop/Libro/2nd Draft/Section 1/Video 1/script.txt",
+				"/Users/gonto/Desktop/Lote",
+				"/Users/gonto/Desktop/PDE",
+				"/Users/gonto/repos/tournament/ruby/spec/models/schedule_spec.rb",
+				"/Users/gonto/.nvm/nvm.sh",
+				"/Users/gonto/repos/aquicore/aquicore/modules/greenscript-1.2.9c-aq/samples-and-tests/booking/conf/data.yml",
+				"/Users/gonto/repos/aquicore/aquicore/conf/dependencies.yml",
+				"/Users/gonto/repos/tournament/ruby/app/models/schedule.rb",
+				"/Users/gonto/Downloads/gabrielbernstein@gmail.com - Discos de tu vieja PC/tree_d.txt",
+				"/Users/gonto/Downloads/gabrielbernstein@gmail.com - Discos de tu vieja PC/tree_c.txt",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/schedule_fabricator.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/models/stadium_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/models/user_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/Gemfile",
+				"/Users/gonto/repos/tournament/ruby/URLs",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/v1/users_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/registrations_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/requests/sessions_controller_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/routing/registrations_routing_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/routing/sessions_routing_spec.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/stadium_fabricator.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/vcr_cassettes/gonto_facebook.yml",
+				"/Users/gonto/repos/tournament/ruby/spec/requests/v1_users_controller_spec.rb",
+				"/Users/gonto/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/gonto/repos/aquicore/aquicore/provided/greenscript-1.2.9c-aq/conf/dependencies.yml",
+				"/Users/gonto/repos/greenscript/java/play/pom.xml",
+				"/Users/gonto/repos/aquicore/aquicore/conf/initial-data.yml",
+				"/Users/gonto/Documents/Work/templateFreelanceNoBusco",
+				"/Users/gonto/repos/aquicore/aquicore/public/javascripts/nv.d3.js",
+				"/Users/gonto/Desktop/cd",
+				"/Users/gonto/repos/tournament/ruby/config/unicorn.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/user_fabricator.rb",
+				"/Users/gonto/repos/ideo/spec/fabricators/user_fabricator.rb",
+				"/Users/gonto/repos/ideo/app/controllers/v1/sessions_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/app/views/v1/users/login.json.rabl",
+				"/Users/gonto/repos/tournament/ruby/app/controllers/application_controller.rb",
+				"/Users/gonto/repos/ideo/app/controllers/v1/users_controller.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/fabricators/tourney_fabricator.rb",
+				"/Users/gonto/repos/tournament/ruby/config/application.rb",
+				"/Users/gonto/repos/tournament/ruby/config/initializers/simple_enum_initializer.rb",
+				"/Users/gonto/repos/ideo/app/models/user.rb",
+				"/Users/gonto/repos/tournament/ruby/spec/spec_helper.rb",
+				"/Users/gonto/repos/ideo/spec/spec_helper.rb",
+				"/Users/gonto/repos/ideo/features/support/env.rb"
 			],
 			"find":
 			{
@@ -411,13 +1327,121 @@
 				"height": 0.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					",\"",
+					"@",
+					",\"",
+					"post",
+					"brac",
+					"custom",
+					"responseExtractor",
+					"msg",
+					"')",
+					"'>",
+					"<a",
+					"postFunc",
+					")",
+					"post",
+					"}",
+					"{",
+					",",
+					".delete",
+					".remove",
+					".update",
+					".fetch",
+					"public",
+					"format'",
+					",.3r",
+					"format",
+					"BarChart",
+					"User(",
+					"C05",
+					"sda",
+					"data-metric-",
+					"data-metric-eve",
+					".parse",
+					"sda2",
+					"sda",
+					"javascript",
+					"database_authenticatable",
+					"PPT",
+					"Mate",
+					"use",
+					"failed",
+					"N/A",
+					"        \n",
+					"grep",
+					"install",
+					"Building",
+					"numeric(19, 2)",
+					",",
+					"start",
+					"UsersHelper",
+					"User",
+					"linePl",
+					"Partition",
+					"WorkCalendar]",
+					"SingleRulePartition",
+					"stadium",
+					"user",
+					"precense",
+					"password",
+					"encrypted_pass",
+					"@facebook_user",
+					"vcr",
+					"= d",
+					"space_id",
+					":user => valid_attributes",
+					"v1_users_path",
+					"rabl",
+					"config.include",
+					"id",
+					"user =>",
+					"Fabricate.build(:user).to_json",
+					"users",
+					"active_record",
+					"Spork.prefork",
+					"member",
+					"terminal-notifier-guard",
+					"@articles = Article.find_for_category(params[:id], params[:page].to_i, APP_CONFIG[\"sitemap_pagesize\"])",
+					"\"",
+					"<<<<<<",
+					">>>>>",
+					"<<<<<<<",
+					"Usd",
+					"-",
+					"&&",
+					"\n",
+					"#",
+					"PlayDateStatus",
+					"Martin Gontovnikas: ",
+					"{",
+					"if",
+					"/home/username",
+					"Building",
+					"user",
+					"alert",
+					"Space",
+					"references",
+					"gon.to",
+					"<a href=\"",
+					")",
+					"(",
+					"[\\(\\)]",
+					"-reflect",
+					"2.9",
+					"2.10",
+					"class=\"build\"",
+					"    \n",
+					"SendersByNotification",
+					"",
 					"xmx",
 					"HEAD",
 					"Meter",
@@ -444,6 +1468,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					".delete",
+					".put",
+					".getList",
+					"'",
+					"<a target=\"_blank\" href=\"",
 					"",
 					"32 42",
 					"3242",
@@ -465,7 +1494,7 @@
 							"buffer": 0,
 							"settings":
 							{
-								"buffer_size": 10,
+								"buffer_size": 284,
 								"regions":
 								{
 								},
@@ -473,12 +1502,12 @@
 								[
 									[
 										0,
-										0
+										284
 									]
 								],
 								"settings":
 								{
-									"auto_name": "aa",
+									"auto_name": "<horizontal-bar type=\"selectionWorkingBar\" data=\"s",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -521,7 +1550,11 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0 88 1280 690 0 0 1280 778 ",
+			"output.exec":
+			{
+				"height": 136.0
+			},
+			"position": "0 130 1280 619 0 0 1280 778 ",
 			"replace":
 			{
 				"height": 68.0
@@ -533,20 +1566,484 @@
 				"selected_items":
 				[
 					[
-						"user",
-						"app/models/user.rb"
+						"migra",
+						"db/migrate/20130417003149_create_people.rb"
 					],
 					[
-						"db",
+						"person",
+						"app/models/person.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"databa",
 						"config/database.yml"
+					],
+					[
+						"filter.js",
+						"public/javascripts/monitor/angular/filters.js"
+					],
+					[
+						"app.js",
+						"public/javascripts/monitor/angular/app.js"
+					],
+					[
+						"tournaments_c",
+						"app/controllers/tournaments_controller.rb"
 					],
 					[
 						"route",
 						"config/routes.rb"
 					],
 					[
+						"post_c",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"tour",
+						"app/models/tourney.rb"
+					],
+					[
+						"tourne",
+						"app/models/tourney.rb"
+					],
+					[
+						"spec_sess",
+						"spec/spec_session_helper.rb"
+					],
+					[
+						"user_con",
+						"spec/requests/registrations_controller_spec.rb"
+					],
+					[
+						"tournament_sp",
+						"spec/controllers/tournaments_controller_spec.rb"
+					],
+					[
+						"tourney",
+						"app/models/tourney.rb"
+					],
+					[
+						"tourne_spe",
+						"spec/models/tourney_spec.rb"
+					],
+					[
+						"analytics.html",
+						"app/views/general/_analytics.html.erb"
+					],
+					[
+						"application.html",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"analytics.js",
+						"lib/assets/javascripts/analytics/analytics.js"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"sched",
+						"spec/fabricators/schedule_fabricator.rb"
+					],
+					[
+						"stas",
+						"spec/models/stadium_spec.rb"
+					],
+					[
+						"schedufab",
+						"spec/fabricators/schedule_fabricator.rb"
+					],
+					[
+						"schedule_fa",
+						"spec/fabricators/schedule_fabricator.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"stadu",
+						"app/models/stadium.rb"
+					],
+					[
+						"regirou",
+						"spec/routing/registrations_routing_spec.rb"
+					],
+					[
+						"sescon",
+						"spec/requests/sessions_controller_spec.rb"
+					],
+					[
+						"registrations_c",
+						"app/controllers/registrations_controller.rb"
+					],
+					[
+						"stadium",
+						"app/models/stadium.rb"
+					],
+					[
+						"stadi",
+						"ruby/spec/models/stadium_spec.rb"
+					],
+					[
+						"user_spec",
+						"ruby/spec/models/user_spec.rb"
+					],
+					[
+						"stad",
+						"ruby/app/models/stadium.rb"
+					],
+					[
+						"gemfile",
+						"ruby/Gemfile"
+					],
+					[
+						"user_fabr",
+						"ruby/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"user.rb",
+						"ruby/app/models/user.rb"
+					],
+					[
+						"gonto",
+						"ruby/spec/vcr_cassettes/gonto_facebook.yml"
+					],
+					[
+						"gonto_f",
+						"ruby/spec/vcr_cassettes/gonto_facebook.yml"
+					],
+					[
+						"user_fab",
+						"ideo/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"session_control",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"user_contr",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"routes",
+						"ruby/config/routes.rb"
+					],
+					[
+						"user_control",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"application_cont",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"session_contr",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"user_controll",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"tourn",
+						"ruby/app/models/tourney.rb"
+					],
+					[
+						"appli",
+						"ruby/config/application.rb"
+					],
+					[
+						"spec",
+						"ruby/spec/models/user_spec.rb"
+					],
+					[
+						"user_fabri",
+						"ruby/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"_fabr",
+						"ruby/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"users_contr",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"gonto_face",
+						"ruby/spec/vcr_cassettes/gonto_facebook.yml"
+					],
+					[
+						"spec_he",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"v1_",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"rspec_he",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"vcr",
+						"ideo/features/support/vcr.rb"
+					],
+					[
+						"env.rb",
+						"ideo/features/support/env.rb"
+					],
+					[
+						"spec_hel",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"application_contr",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"appli_con",
+						"ideo/app/controllers/application_controller.rb"
+					],
+					[
+						"gem",
+						"ruby/Gemfile"
+					],
+					[
+						"user_routing",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"user_contro",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"place_cont",
+						"ideo/spec/controllers/places_controller_spec.rb"
+					],
+					[
+						"routing",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"v1",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"experiencontr",
+						"ideo/app/controllers/v1/experiences_controller.rb"
+					],
+					[
+						"experiencontro",
+						"ideo/app/controllers/v1/experiences_controller.rb"
+					],
+					[
+						"users_contro",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"experi_con",
+						"ideo/app/controllers/v1/experiences_controller.rb"
+					],
+					[
+						"gemfi",
+						"ruby/Gemfile"
+					],
+					[
+						"experiencej",
+						"ideo/app/views/v1/experiences/show.json.jbuilder"
+					],
+					[
+						"session_con",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"devise.rb",
+						"ruby/config/initializers/devise.rb"
+					],
+					[
+						"applicationc",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"userscontroller",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"user_controllerspec",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"expienspe",
+						"ideo/spec/models/experience_spec.rb"
+					],
+					[
+						"users_spec",
+						"ruby/spec/requests/v1_users_controller_spec.rb"
+					],
+					[
+						"places_con_",
+						"ideo/spec/controllers/places_controller_spec.rb"
+					],
+					[
+						"users_routing",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"users_controller",
+						"ruby/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"users_rou",
+						"ruby/spec/routing/v1/users_routing_spec.rb"
+					],
+					[
+						"places_control",
+						"ideo/spec/controllers/places_controller_spec.rb"
+					],
+					[
+						"places_rou",
+						"ideo/spec/routing/places_routing_spec.rb"
+					],
+					[
+						"users_c",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"routes.rb",
+						"ideo/config/routes.rb"
+					],
+					[
+						"routes.r",
+						"ideo/config/routes.rb"
+					],
+					[
+						"experiencecontroller",
+						"ideo/spec/controllers/v1/experiences_controller_spec.rb"
+					],
+					[
+						"_spec",
+						"ideo/spec/models/experience_spec.rb"
+					],
+					[
+						"user_controller_spec",
+						"ruby/spec/controllers/v1/user_controller_spec.rb"
+					],
+					[
+						"userhe",
+						"ruby/app/helpers/v1/user_helper.rb"
+					],
+					[
+						"wrap_",
+						"ruby/config/initializers/wrap_parameters.rb"
+					],
+					[
+						"test.r",
+						"ruby/config/environments/test.rb"
+					],
+					[
+						"guardf",
+						"ruby/Guardfile"
+					],
+					[
+						"gemf",
+						"ruby/Gemfile"
+					],
+					[
+						"show.j",
+						"ideo/app/views/v1/users/show.json.jbuilder"
+					],
+					[
+						"user_controller",
+						"ideo/app/controllers/v1/users_controller.rb"
+					],
+					[
+						"pene_fa",
+						"ruby/spec/fabricators/pene_fabricator.rb"
+					],
+					[
+						"pene_c",
+						"ruby/app/controllers/penes_controller.rb"
+					],
+					[
+						"application_con",
+						"ruby/app/controllers/application_controller.rb"
+					],
+					[
+						"error",
+						"ideo/app/controllers/v1/error_handler_helper.rb"
+					],
+					[
+						"user_fa",
+						"ideo/spec/fabricators/user_fabricator.rb"
+					],
+					[
+						"basec",
+						"ideo/app/controllers/v1/base_controller.rb"
+					],
+					[
+						"session",
+						"ideo/app/controllers/v1/sessions_controller.rb"
+					],
+					[
+						"sess",
+						"ruby/app/controllers/session_controller.rb"
+					],
+					[
+						"guard",
+						"ideo/Guardfile"
+					],
+					[
+						"rspec",
+						"ruby/spec/spec_helper.rb"
+					],
+					[
+						"user.r",
+						"ideo/app/models/user.rb"
+					],
+					[
+						"devise",
+						"ruby/config/initializers/devise.rb"
+					],
+					[
+						"database",
+						"ruby/config/database.yml"
+					],
+					[
 						"develop",
-						"config/environments/development.rb"
+						"ruby/config/environments/development.rb"
+					],
+					[
+						"deve",
+						"ideo/config/environments/development.rb"
+					],
+					[
+						"mono",
+						"ruby/config/mongoid.yml"
+					],
+					[
+						"",
+						"ideo/Gemfile"
+					],
+					[
+						"mongoid",
+						"ideo/config/mongoid.yml"
+					],
+					[
+						"home",
+						"ruby/app/controllers/home_controller.rb"
+					],
+					[
+						"produc",
+						"config/environments/production.rb"
+					],
+					[
+						"db",
+						"config/database.yml"
 					],
 					[
 						"paciente",
@@ -573,7 +2070,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 168.0,
 			"status_bar_visible": true,
-			"window_id": 109,
+			"window_id": 363,
 			"workspace_name": ""
 		}
 	],
